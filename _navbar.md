@@ -1,0 +1,10 @@
+- [About](/)
+- Meetings API
+  - [About & Requirements](/meetings/dependencies/)
+  - [Publishing](/meetings/publishing/)
+- Partners API
+  - [About & Requirements](/partners/dependencies/)
+  - [Publishing](/partners/publishing/)
+- Dashboard
+  - [About & Requirements](/dashboard/dependencies/)
+  - [Publishing](/dashboard/publishing/)

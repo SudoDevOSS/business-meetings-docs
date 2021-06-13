@@ -58,6 +58,7 @@ If you wish you to use prebuilt containers:
 - [Meetings API Container](https://hub.docker.com/r/sudodevosss/meetings-api)
 - [Partners API Container](https://hub.docker.com/r/sudodevosss/partners-api)
 - [Dashboard Container](https://hub.docker.com/r/sudodevosss/meetings-dashboard)
+- [API Gateway](https://hub.docker.com/r/sudodevosss/meetings-api-gateway)
 
 Make sure you check each API publishing section for any required environment variables for the container
 

@@ -39,6 +39,12 @@ Start by reading docs for the language of your choice
 - [Docs](/dashboard/dependencies/?id=overview)
 - [Source Code](https://github.com/SudoDevOSS/business-meeting-frontend)
 
+### API Gateway
+
+For development a simple API Gateway is provided to handle requests from dashboard to required endpoint
+
+- [Source Code](https://github.com/SudoDevOSS/business-meeting-api-gateway)
+
 ## Deployment
 
 ### Docker

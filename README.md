@@ -100,7 +100,7 @@ services:
     networks:
       - frontend
   db:
-    image: mongo:latest
+    image: mongo:4.4.6
     ports:
       - 27017
     networks:

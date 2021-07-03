@@ -20,24 +20,24 @@ This is a simple api that fetches list of business partners and return list of p
 
 ### Running the project
 
-- In project root run ``` yarn install ```
-- Before you start, you need a ``` .env.local ``` file with the following params: ``` DATA_SOURCE ``` & ``` PORT ```
-- After dependencies are installed run ``` yarn start ```
+- In project root run `yarn install`
+- Before you start, you need a `.env.local` file with the following params: `DATA_SOURCE` & `PORT`
+- After dependencies are installed run `yarn start`
 
 ### Available scripts
 
-- ``` build ```: Builds api for production
-- ``` start ```: Builds and runs the project
-- ``` test ```: Run unit tests (Coming Soon)
+- `build`: Builds api for production
+- `start`: Builds and runs the project
+- `test`: Run unit tests (Coming Soon)
 
 ---
 
 ## License
 
-``` text
+```text
 MIT License
 
-Copyright (c) 2021 sudo-dev-oss
+Copyright (c) 2021 omar-bizreh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
